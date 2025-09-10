@@ -1,5 +1,8 @@
 # 🚀 Raimbel
 
+![Raimbel Banner](https://link-da-sua-imagem-ou-gif.com/banner.png)  
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Raimbel.Raimbel)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C7F7&width=700&lines=Bem-vindo+ao+GitHub+da+Raimbel!;Inovação+%7C+Tecnologia+%7C+Soluções+Digitais)](https://git.io/typing-svg)
 
 A **[Raimbel](https://www.raimbel.com/)** é uma empresa de **inovação em tecnologia**, especializada em **desenvolvimento de software** e **consultoria em TI**.  
